@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jane-austen/emma</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-05-24T18:28:20Z</dc:date>
+		<meta property="dcterms:modified">2019-05-24T18:28:20Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -56,13 +56,13 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young English woman decides to play matchmaker.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Emma&lt;/i&gt; is one of the many beloved novels of Jane Austen. Like many of her works, there's more to it than meets the eye. Austen takes a look at the rigid social structures of the Regency Era and the problems one might have when looking for love in someone above or below their station in life.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Emma&lt;/i&gt; is one of the many beloved novels of Jane Austen. Like many of her works there is more to it than meets the eye. Austen takes a look at the rigid social structures of the Regency Era and the problems one might have when looking for love in someone above or below their station in life.&lt;/p&gt;
 			&lt;p&gt;This edition was based off of a three-volume work of &lt;i&gt;Emma&lt;/i&gt; and reduces it to a single volume with all chapters intact.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/158</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">160910</meta>
+		<meta property="se:reading-ease.flesch">71.04</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Emma</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jane-austen_emma</meta>
 		<dc:creator id="author">Jane Austen</dc:creator>
